@@ -1,0 +1,17 @@
+body{
+    background-image: url(../images/login.jpg);
+    background-repeat: repeat-x;
+}
+
+/* #login-details-container{
+    background-image: url(../images/login.jpg);
+} */
+
+form{
+    width: 40rem;
+    margin-top: 180px;
+}
+
+label{
+    font-size: 1.4rem;
+}

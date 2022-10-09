@@ -1,0 +1,38 @@
+
+
+
+section{
+    margin-bottom: 1rem;
+}
+
+
+
+
+
+
+
+.gender{
+    display: flex;
+}
+
+.gender input{
+    width: auto;
+    margin-right: 0.6rem;
+
+}
+
+button{
+    font-family: inherit;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    border: 1px solid rgb(194, 185, 185);
+    padding: 0.4rem 1.4rem;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: rgb(107, 101, 101);
+    color: white;
+}
+
+

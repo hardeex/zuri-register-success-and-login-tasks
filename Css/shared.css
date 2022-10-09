@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(224, 233, 233);
+    font-family: 'Roboto', sans-serif;
+    color: rgb(56, 56, 56);
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+form{
+    width: 35rem;
+    margin: auto;
+    background-color: rgb(250, 250, 250);
+    padding: 1.2rem;
+    margin-bottom: 1.5rem;
+    border-radius: 6px;
+    font-family: inherit;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li{
+    margin-bottom: 1rem;
+}
+
+label{
+    display: block;
+}
+
+input{
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    font-family: inherit;
+    margin-bottom: 0.5rem;
+}
+
+input:focus{
+    color: rgb(39, 37, 37);
+    background-color: rgb(224, 233, 233);
+    font-size: 1.3rem;
+}
+
+h2, 
+p{
+    font-size: 1.3rem;
+    margin-bottom: 1.2rem;
+}
+
+
+button{
+    font-family: inherit;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    border: 1px solid rgb(194, 185, 185);
+    padding: 0.4rem 1.4rem;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: rgb(107, 101, 101);
+    color: white;
+}
+
